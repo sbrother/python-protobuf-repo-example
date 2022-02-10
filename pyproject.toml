@@ -1,0 +1,5 @@
+[build-system]
+requires = ["protobuf-custom-build@git+https://github.com/sbrother/protobuf-custom-build", "setuptools>=42", "wheel", "setuptools_scm[toml]>=3.4.1"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools_scm]
