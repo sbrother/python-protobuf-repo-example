@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "dairy/cheese.proto";
+
+message Food {
+    string name = 1;
+    CheeseType cheese_type = 2;
+}

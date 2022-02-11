@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+enum CheeseType {
+    NOT_A_CHEESE = 0;
+    GRUYERE = 1;
+    WENSLEYDALE = 2;
+}
+
+    
