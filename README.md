@@ -21,7 +21,4 @@ $ source venv/bin/activate
 ```
 
 Under the hood this uses a
-[custom setuptools command](https://github.com/sbrother/protobuf-custom-build)
-and the excellent
-[protoletariat](https://github.com/cpcloud/protoletariat) package from
-[cpcloud](https://github.com/cpcloud).
+[custom setuptools command](https://github.com/sbrother/protobuf-custom-build).
