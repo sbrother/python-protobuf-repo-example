@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-import "dairy/cheese.proto";
+import "example_proto/dairy/cheese.proto";
 
 message Food {
     string name = 1;

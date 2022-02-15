@@ -1,3 +1,3 @@
 [build-system]
-requires = ["protobuf-custom-build", "setuptools>=42", "wheel", "setuptools_scm[toml]>=3.4.1", "protoletariat", "protobuf"]
+requires = ["protobuf-custom-build>=0.2.0", "setuptools>=42", "wheel", "setuptools_scm[toml]>=3.4.1", "protoletariat", "protobuf"]
 build-backend = "setuptools.build_meta"
