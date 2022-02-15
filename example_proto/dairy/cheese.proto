@@ -5,5 +5,3 @@ enum CheeseType {
     GRUYERE = 1;
     WENSLEYDALE = 2;
 }
-
-    
